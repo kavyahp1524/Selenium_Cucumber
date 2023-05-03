@@ -1,0 +1,9 @@
+package apnarunner;
+
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+import io.cucumber.testng.CucumberOptions;
+
+@CucumberOptions(features= {"src/test/resources/apna/apna.feature"},glue = {"apnadef"})
+public class apnarunner extends AbstractTestNGCucumberTests {
+
+}

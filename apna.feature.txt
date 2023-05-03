@@ -1,0 +1,16 @@
+Feature:
+to check apna website
+Scenario:
+to do functionality done in class
+Given should be in apna website
+When assertion done
+Then action keys
+Then drop down
+Then context click
+And tab handling
+And tab handling send keys
+Then window handling
+And windows2
+Then composite
+And javascript
+Then close
